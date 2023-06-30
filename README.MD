@@ -2,7 +2,7 @@
 
 #### Starter
 
-The starter is a copy of jobs-api final project, just with additional data.
+Contains the files for routes,controllers,error handlers and app.js
 
 #### Setup
 
